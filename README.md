@@ -2,6 +2,8 @@
 
 This project is a simple 3D card animation of Ritsu Sakuma from the anime and game *Ensemble Stars*. The website is built using only HTML and CSS. When the user hovers over the card with the mouse, a 3D popping effect will appear, making the card seem to rise.
 
+![The left card lifting on hover](screenshot.png)
+
 ## Features
 - **3D Animation**: The card has a hover effect that creates a 3D pop-out animation.
 - **Responsive Design**: The card layout adjusts to various screen sizes.
